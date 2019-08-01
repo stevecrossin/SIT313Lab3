@@ -132,9 +132,9 @@
             <DependentUpon>ViewController.cs</DependentUpon>
         </Compile>
         <Compile Include="StudentInfo.cs" />
-        <Compile Include="ShowAllnfoController.cs" />
-        <Compile Include="ShowAllnfoController.designer.cs">
-          <DependentUpon>ShowAllnfoController.cs</DependentUpon>
+        <Compile Include="ShowAllInfoController.cs" />
+        <Compile Include="ShowAllInfoController.designer.cs">
+          <DependentUpon>ShowAllInfoController.cs</DependentUpon>
         </Compile>
     </ItemGroup>
     <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />

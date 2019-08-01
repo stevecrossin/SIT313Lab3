@@ -11,8 +11,8 @@ using UIKit;
 
 namespace Lab3Task2
 {
-    [Register ("ShowAllnfoController")]
-    partial class ShowAllnfoController
+    [Register ("ShowAllInfoController")]
+    partial class ShowAllInfoController
     {
     }
 }
